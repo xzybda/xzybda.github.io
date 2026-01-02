@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Example Site</title>
+        <title>xzybda stack</title>
         <link>http://localhost:1313/</link>
-        <description>Recent content on Example Site</description>
+        <description>Recent content on xzybda stack</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <copyright>Example Person</copyright>
+        <copyright>xzybda</copyright>
         <lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Archives</title>
         <link>http://localhost:1313/archives/</link>
@@ -41,6 +41,20 @@
 &lt;p&gt;Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.&lt;/p&gt;
 &lt;p&gt;Learn more and contribute on &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title></title>
+        <link>http://localhost:1313/p/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/</guid>
+        <description>&lt;h1 id=&#34;随笔一&#34;&gt;随笔一
+&lt;/h1&gt;&lt;p&gt;​	想写随笔已经很久了，随笔于我而言是对心中所想的记录，亦是提供给我自己一个思考的平台。第一篇随笔自然是对过往进行一个总结为好，系统的复盘也有助于我理清思路。&lt;/p&gt;
+&lt;p&gt;​	过去的总结整体上分为学业以及情感两个方面。&lt;/p&gt;
+&lt;p&gt;​	学业方面，在上高二之前，个人认为学习还算的上认真，虽然初中的时候痴迷于玩乐，但大体仍说得过去，至高一阶段我认为是我目前为止最认真的一个阶段了，虽然也并不勤奋。高二的时候由于分班的缘故，开始厌学，每天到学校看到办理同学无论上课与下课，都坐在座位上伏案学习的时候感到格格不入，再加上当时想学数学竞赛，所以搞得一团糟，加之疫情期间的放纵，最后课内成绩，竞赛成绩，再加上中科大少年班的校测都是一塌糊涂，高二的高考以622收场，倒也勉强说得过去。高三的时候碰到了一个不喜欢的同桌，每日上学更是煎熬，过了许久，无奈之下向老师申请单独坐在最后一排，才得以解脱。不过最后也没有好好学习，每日痴迷于电子书，终究误了自己。大学来到本地一所985学习cs，所幸学校管理较为宽松，于我而言cs也并不枯燥，不过大一至大二上学期一年半的时间也是在游戏中度过，日夜颠倒的游戏与饮食导致长了很多痘也留下了痘印，这也是一大损失。细想下来，之所以沉迷于娱乐，是源于对未来的迷茫，高中时我想不明白清北与普通院校对我有什么影响，大一时亦想不通所学课程之作用，想不通那便不想，遂终日放纵。至此也算是稍想明白学习之原因了，本人胸无大志，既不为祖国之崛起而读书，但也不至于太俗，一心求财。事实在我看来，如此循规蹈矩下去也不可能发财。就现在而言，其实也并不是很明晰，但亦有所方向，读书是为了有机会见识到更多的风景。依旧平庸，但已足够让我坚定。&lt;/p&gt;
+&lt;p&gt;​	情感方面，第一便是友情，其实我无法判断别人对我是否真心，但如今19有余也能做一些基本的判断了，幸运的是，在初高中的时候结交过两三位好友还令我满意，也可以随意畅谈，这已经很足够了。其次便是爱情，遗憾的是本人开智较晚，错过了一个我非常喜欢的女生，初中的时候其实我对她有所喜欢，而当时的她应当是也喜欢我的，但这当时的我实在看不出来，因为即使我喜欢她也没有追求，当时的我每日上学除了学习就是出去玩，对感情一事并不了解。到了高中时期，虽然不在一所高中，他仍会祝我新年快乐以及生日快乐，可惜当时对自身尚无比迷茫，也无心谈这些了，大一的时候出于肉欲谈过一段恋爱，然而这段经历只让我意识到我真正喜欢的自始至终都是她一个人，最近尝试着加她的QQ好友然而都未同意，终究是错过了，可我仍旧心有不甘但又能如何呢，或许这就是命运。我本是完全不相信命的，可随着经历以及年龄的增长，对于命运一说却愈发相信了，或许有朝一日我会与她重逢，如果没有的话可能也是命运使然。不过她也确实成为了我的审美标准，她的样貌与性格都是我所喜欢的。&lt;/p&gt;
+&lt;p&gt;​	至此，算是对之前19年的一个总结，也期待我自己的新的发展&lt;/p&gt;
 </description>
         </item>
         <item>
