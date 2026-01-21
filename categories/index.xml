@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Categories on xzybda stack</title>
-        <link>http://localhost:1313/categories/</link>
-        <description>Recent content in Categories on xzybda stack</description>
+        <title>Categories on xzybda的博客</title>
+        <link>https://xzybda.github.io/categories/</link>
+        <description>Recent content in Categories on xzybda的博客</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en</language>
+        <language>zh-cn</language>
         <copyright>xzybda</copyright>
-        <lastBuildDate>Sat, 03 Jan 2026 02:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 03 Jan 2026 02:00:00 +0800</lastBuildDate><atom:link href="https://xzybda.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>随笔</title>
-        <link>http://localhost:1313/categories/%E9%9A%8F%E7%AC%94/</link>
+        <link>https://xzybda.github.io/categories/%E9%9A%8F%E7%AC%94/</link>
         <pubDate>Sat, 03 Jan 2026 02:00:00 +0800</pubDate>
         
-        <guid>http://localhost:1313/categories/%E9%9A%8F%E7%AC%94/</guid>
+        <guid>https://xzybda.github.io/categories/%E9%9A%8F%E7%AC%94/</guid>
         <description></description>
         </item>
         <item>
         <title>Test</title>
-        <link>http://localhost:1313/categories/test/</link>
+        <link>https://xzybda.github.io/categories/test/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/test/</guid>
-        <description>&lt;img src="http://localhost:1313/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
+        <guid>https://xzybda.github.io/categories/test/</guid>
+        <description>&lt;img src="https://xzybda.github.io/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
         </item>
         
     </channel>
